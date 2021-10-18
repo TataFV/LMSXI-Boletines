@@ -3,6 +3,7 @@
     <deportista>
         <deporte tipo="Atletismo" />
         <nombre>Jesse Owens</nombre>
+    </deportista>
     <deportista>
         <deporte tipo="Natación" />
         <nombre>Mark Spitz</nombre>
