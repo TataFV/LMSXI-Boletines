@@ -1,6 +1,6 @@
     <texto>
     <titulo>XML explicado a los niños</titulo>
-    <parrafo>El <abreviatura>XML</abreviatura>define cómo crear lenguajes de marcas.</parrafo>
-    <parrafo>Las marcas se añaden a un documento de texto
-    para añadir información.</parrafo> <http://>www.example.org</http://>
+    <p>El <abreviatura>XML</abreviatura>define cómo crear lenguajes de marcas.</p>
+    <p>Las marcas se añaden a un documento de texto
+    para añadir información.</p> <http://>www.example.org</http://>
     </texto>
