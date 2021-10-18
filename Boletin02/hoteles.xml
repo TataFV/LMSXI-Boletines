@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<hoteles>
+    <hotel>
+        <nombre></nombre>
+        <telefono></telefono>
+        <direccion>
+            <calle></calle>
+            <numero></numero>
+        </direccion>
+        <ciudad></ciudad>
+        <pais></pais>
+        <numero_de_estrellas></numero_de_estrellas>
+        <descripcion_del_hotel></descripcion_del_hotel>
+        <numero_de_habitaciones>
+            <individuales></individuales>
+            <dobles></dobles>
+            <triples></triples>
+            <suites></suites>
+        </numero_de_habitaciones>
+    </hotel>
+</hoteles>
 <!-- Completar este documento para registrar hoteles,
     donde tengas nombre, teléfono, dirección(calle y número),
     ciudad, país, numero de estrellas, descripción del hotel,
