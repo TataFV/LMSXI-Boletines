@@ -2,6 +2,4 @@
 <!DOCTYPE numeros [
     <!ELEMENT numeros (#PCDATA)
 >]>
-<numeros>
-    <numero>25</numero>
-</numeros>
+<numeros>25</numeros>
